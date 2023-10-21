@@ -30,40 +30,41 @@ algorithms = [
 with open(output_file, 'w') as xml_file:
     xml_file.write("<benchmark_results>\n")
 
-    # Loop through each algorithm
-    for algorithm in algorithms:
-        # Loop through each combination of parameters
-        for thread in threads:
-            for update_ratio in update_ratios:
-                for list_size in list_sizes:
-                    # Calculate the range based on the multiplier
-                    range_val = list_size * range_multiplier
+    for i in range(5):
+        # Loop through each algorithm
+        for algorithm in algorithms:
+            # Loop through each combination of parameters
+            for thread in threads:
+                for update_ratio in update_ratios:
+                    for list_size in list_sizes:
+                        # Calculate the range based on the multiplier
+                        range_val = list_size * range_multiplier
 
-                    # Run synchrobench with the specified parameters
-                    command = f"java -cp {classpath} contention.benchmark.Test -b {algorithm} -W 0 -d {duration} -t {thread} -u {update_ratio} -i {list_size} -r {range_val}"
+                        # Run synchrobench with the specified parameters
+                        command = f"java -cp {classpath} contention.benchmark.Test -b {algorithm} -W 0 -d {duration} -t {thread} -u {update_ratio} -i {list_size} -r {range_val}"
 
-                    print(f"Running command: {command}")
+                        print(f"Running command: {command}")
 
-                    # Capture the output of the command
-                    result = subprocess.check_output(command, shell=True, text=True)
+                        # Capture the output of the command
+                        result = subprocess.check_output(command, shell=True, text=True)
 
-                    # Use regex to extract the throughput value
-                    throughput_match = re.search(r'Throughput \(ops/s\):\s*([\d.]+)', result)
-                    if throughput_match:
-                        throughput = throughput_match.group(1)
-                    else:
-                        throughput = "N/A"
+                        # Use regex to extract the throughput value
+                        throughput_match = re.search(r'Throughput \(ops/s\):\s*([\d.]+)', result)
+                        if throughput_match:
+                            throughput = throughput_match.group(1)
+                        else:
+                            throughput = "N/A"
 
-                    # Write the relevant output to the XML file
-                    xml_file.write("  <result>\n")
-                    xml_file.write(f"    <algorithm>{algorithm}</algorithm>\n")
-                    xml_file.write(f"    <write_ratio>{update_ratio}%</write_ratio>\n")
-                    xml_file.write(f"    <threads>{thread}</threads>\n")
-                    xml_file.write(f"    <size>{list_size}</size>\n")
-                    xml_file.write(f"    <throughput>{throughput}</throughput>\n")
-                    xml_file.write("  </result>\n")
+                        # Write the relevant output to the XML file
+                        xml_file.write("  <result>\n")
+                        xml_file.write(f"    <algorithm>{algorithm}</algorithm>\n")
+                        xml_file.write(f"    <write_ratio>{update_ratio}%</write_ratio>\n")
+                        xml_file.write(f"    <threads>{thread}</threads>\n")
+                        xml_file.write(f"    <size>{list_size}</size>\n")
+                        xml_file.write(f"    <throughput>{throughput}</throughput>\n")
+                        xml_file.write("  </result>\n")
 
-                    print("-------------------------------------------")
+                        print("-------------------------------------------")
     # Close the XML file with the root element
     xml_file.write("</benchmark_results>\n")
 
