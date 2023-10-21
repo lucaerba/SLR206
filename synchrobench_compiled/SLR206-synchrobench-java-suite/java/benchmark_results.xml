@@ -4,1133 +4,5669 @@
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>6030041.77026355</throughput>
+    <throughput>5657102.436598707</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>648182.3176823178</throughput>
+    <throughput>616433.066933067</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>13932.033983008496</throughput>
+    <throughput>14875.562218890556</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>5950973.04043934</throughput>
+    <throughput>5655125.3746253755</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>301937.0943584623</throughput>
+    <throughput>294340.8295852074</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>13465.534465534467</throughput>
+    <throughput>13900.049975012495</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>4934151.924037981</throughput>
+    <throughput>4441421.367948078</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>378110.94452773617</throughput>
+    <throughput>354584.1238142786</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>12569.645531702445</throughput>
+    <throughput>13010.989010989013</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>2650885.229540918</throughput>
+    <throughput>2721039.900249377</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>257166.2506240639</throughput>
+    <throughput>243431.35297054416</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>8330.838323353293</throughput>
+    <throughput>8345.309381237525</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>2059262.9740518962</throughput>
+    <throughput>2089364.2714570859</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>136618.2634730539</throughput>
+    <throughput>134289.56565152272</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>7999.500998003992</throughput>
+    <throughput>8131.802296555167</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>985097.3539690464</throughput>
+    <throughput>1555881.3559322036</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>157611.2774451098</throughput>
+    <throughput>166740.51896207585</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>8234.297108673978</throughput>
+    <throughput>7430.3544682975535</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>2258190.024937656</throughput>
+    <throughput>2214079.301745636</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>214850.87281795513</throughput>
+    <throughput>220224.5508982036</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>7952.1197007481305</throughput>
+    <throughput>8102.244389027432</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>1812202.891326022</throughput>
+    <throughput>1854142.144638404</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>116745.63591022445</throughput>
+    <throughput>118163.1736526946</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>8144.1396508728185</throughput>
+    <throughput>8043.391521197008</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>1553356.6084788032</throughput>
+    <throughput>1421932.2709163346</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>128344.31137724551</throughput>
+    <throughput>130563.5910224439</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>7407.868525896414</throughput>
+    <throughput>7705.73566084788</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>2280785.251619332</throughput>
+    <throughput>2279210.36889332</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>205627.1186440678</throughput>
+    <throughput>196361.91425722835</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>8273.67896311067</throughput>
+    <throughput>8200.0</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>1791905.2841475576</throughput>
+    <throughput>1771205.4862842893</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>105254.73579262214</throughput>
+    <throughput>109162.51246261217</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>8251.744765702892</throughput>
+    <throughput>7726.184538653367</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>1615128.6141575277</throughput>
+    <throughput>1589863.9760837068</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>124112.21945137158</throughput>
+    <throughput>124059.29247633283</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>7792.725460886895</throughput>
+    <throughput>7604.882909815645</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>2105983.067729084</throughput>
+    <throughput>2039178.375685102</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>197649.22770303936</throughput>
+    <throughput>193852.51619332336</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>8238.166417538614</throughput>
+    <throughput>8674.975074775673</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>1671699.203187251</throughput>
+    <throughput>1656875.9342301942</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>101623.50597609562</throughput>
+    <throughput>100833.58246138514</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>8472.845042351768</throughput>
+    <throughput>7894.8679621325355</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>1665651.7189835575</throughput>
+    <throughput>1616150.2487562192</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>116532.63577478823</throughput>
+    <throughput>118870.01992031872</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>8631.159780985565</throughput>
+    <throughput>7503.736920777279</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>2110943.7531110006</throughput>
+    <throughput>1974362.7304434478</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>187479.08366533864</throughput>
+    <throughput>186657.3705179283</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>8543.056246889</throughput>
+    <throughput>7848.605577689243</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>1628491.786958686</throughput>
+    <throughput>1624351.09561753</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>95566.45097063216</throughput>
+    <throughput>94937.25099601594</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>7984.0716774514685</throughput>
+    <throughput>8288.844621513945</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>1476889.4422310756</throughput>
+    <throughput>1493088.5572139304</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>113388.14150473343</throughput>
+    <throughput>116469.38775510204</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>7929.353233830847</throughput>
+    <throughput>7334.4947735191645</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>1315166.3336663337</throughput>
+    <throughput>1313725.7742257745</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>135917.04147926037</throughput>
+    <throughput>122921.07892107894</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>9827.086456771614</throughput>
+    <throughput>10342.157842157843</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>1247650.3496503497</throughput>
+    <throughput>1276711.7882117883</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>137849.15084915087</throughput>
+    <throughput>135454.04595404596</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>10123.876123876125</throughput>
+    <throughput>9818.590704647677</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>1286239.7602397604</throughput>
+    <throughput>1256284.7880299252</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>138771.22877122878</throughput>
+    <throughput>135293.2067932068</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>9179.551122194514</throughput>
+    <throughput>9867.632367632368</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>373958.0629056415</throughput>
+    <throughput>392075.42457542464</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>83046.43035446829</throughput>
+    <throughput>87156.2656015976</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>11305.04243634548</throughput>
+    <throughput>11358.961557663504</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>857608.0878681977</throughput>
+    <throughput>863270.5941088367</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>140988.0239520958</throughput>
+    <throughput>140983.016983017</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>11778.942115768463</throughput>
+    <throughput>11630.869130869132</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>671125.3746253747</throughput>
+    <throughput>669442.8927680799</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>132619.0713929106</throughput>
+    <throughput>124394.90763854218</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>12286.427145708583</throughput>
+    <throughput>12285.571642536195</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>396504.7381546135</throughput>
+    <throughput>403077.84431137727</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>114554.66799800299</throughput>
+    <throughput>107008.98203592814</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>14693.459810284572</throughput>
+    <throughput>14346.979530703944</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>1104838.3233532934</throughput>
+    <throughput>1070334.8303393214</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>185076.84630738522</throughput>
+    <throughput>180259.48103792415</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>15308.229426433916</throughput>
+    <throughput>15672.990514228655</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>717436.626746507</throughput>
+    <throughput>695053.8653366584</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>166744.3834248627</throughput>
+    <throughput>168046.88279301746</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>16188.029925187033</throughput>
+    <throughput>16127.245508982036</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>402220.9476309227</throughput>
+    <throughput>406374.56359102245</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>128337.32534930139</throughput>
+    <throughput>129630.23952095809</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>18498.502994011975</throughput>
+    <throughput>19015.461346633416</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>1125582.0448877807</throughput>
+    <throughput>1219693.612774451</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>235081.79551122195</throughput>
+    <throughput>236589.32135728543</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>18631.920199501248</throughput>
+    <throughput>18645.38653366584</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>789523.4530938123</throughput>
+    <throughput>777703.187250996</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>230525.9481037924</throughput>
+    <throughput>219123.1306081755</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>21425.01245640259</throughput>
+    <throughput>22335.6608478803</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>440645.0648055833</throughput>
+    <throughput>439770.0748129676</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>153732.80159521438</throughput>
+    <throughput>158637.90523690774</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>22751.12219451372</throughput>
+    <throughput>22965.586034912718</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>1282697.40777667</throughput>
+    <throughput>1246715.3539381856</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>276338.9830508475</throughput>
+    <throughput>276702.891326022</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>23137.518684603885</throughput>
+    <throughput>23298.60418743769</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>842542.144638404</throughput>
+    <throughput>884997.5111996018</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>246641.8952618454</throughput>
+    <throughput>280103.6372695565</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>25700.548081713998</throughput>
+    <throughput>25872.319201995015</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>404872.4464374688</throughput>
+    <throughput>433671.48554336996</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>173347.45762711865</throughput>
+    <throughput>174990.52841475574</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>26730.8075772682</throughput>
+    <throughput>26826.52043868395</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>1239586.9456900847</throughput>
+    <throughput>1153542.1026407573</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>320840.1394422311</throughput>
+    <throughput>306537.3878364906</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>27094.217347956135</throughput>
+    <throughput>27696.909272183453</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>877934.7284504235</throughput>
+    <throughput>861523.643603783</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>320507.9760717847</throughput>
+    <throughput>305502.98804780876</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>28710.65737051793</throughput>
+    <throughput>29103.63726955655</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>6159165.252121817</throughput>
+    <throughput>6187514.485514486</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>435799.20079920086</throughput>
+    <throughput>471564.4355644356</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>10428.57142857143</throughput>
+    <throughput>9893.106893106895</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>5831177.7333999</throughput>
+    <throughput>5718173.826173827</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>277103.8442336495</throughput>
+    <throughput>282375.6243756244</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>9917.582417582418</throughput>
+    <throughput>10368.13186813187</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>100</size>
-    <throughput>3960520.9790209793</throughput>
+    <throughput>3336653.1936127744</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>1000</size>
-    <throughput>303198.90054972516</throughput>
+    <throughput>298641.0384423365</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>1</threads>
     <size>10000</size>
-    <throughput>9267.964071856288</throughput>
+    <throughput>9987.019470793808</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>2.0509103293413173</throughput>
+    <throughput>2.443907089365951</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>1752798.9021956087</throughput>
+    <throughput>1641511.7324013978</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>38699.95007488767</throughput>
+    <throughput>43703.09381237525</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>9864363.092269327</throughput>
+    <throughput>8676242.136794807</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>1033882.675986021</throughput>
+    <throughput>1090685.9710434347</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>39494.258612081874</throughput>
+    <throughput>37651.52271592611</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>100</size>
-    <throughput>2014138.292561158</throughput>
+    <throughput>2133390.7185628745</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>1000</size>
-    <throughput>683959.0818363273</throughput>
+    <throughput>698124.6882793017</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>4</threads>
     <size>10000</size>
-    <throughput>36966.583541147134</throughput>
+    <throughput>37721.417873190214</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>1.5323156109725686</throughput>
+    <throughput>1.9941688778054863</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>2566780.049875312</throughput>
+    <throughput>2355235.5289421156</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>58116.26746506986</throughput>
+    <throughput>57243.01397205589</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>1.0426479561316052</throughput>
+    <throughput>1.0536468329177057</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>1327146.1346633418</throughput>
+    <throughput>1459154.6906187625</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>56400.49875311721</throughput>
+    <throughput>61954.59081836327</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>100</size>
-    <throughput>2245094.8103792416</throughput>
+    <throughput>2621867.896311067</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>1000</size>
-    <throughput>916041.9161676647</throughput>
+    <throughput>960460.8478802993</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>6</threads>
     <size>10000</size>
-    <throughput>51275.672981056836</throughput>
+    <throughput>57045.88528678304</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>3.5229831920199506</throughput>
+    <throughput>2.224754463840399</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>3062810.379241517</throughput>
+    <throughput>3131517.946161516</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>74952.61845386535</throughput>
+    <throughput>77146.70658682635</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>1.246124115595416</throughput>
+    <throughput>1.338153765586035</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>1778593.0174563592</throughput>
+    <throughput>1837654.6906187625</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>71984.54636091726</throughput>
+    <throughput>73474.31421446384</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>100</size>
-    <throughput>3347621.635094716</throughput>
+    <throughput>3084837.151394422</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>1000</size>
-    <throughput>1116945.6359102244</throughput>
+    <throughput>1256378.863409771</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>8</threads>
     <size>10000</size>
-    <throughput>68028.91326021934</throughput>
+    <throughput>65740.77766699901</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>2.9169929247633282</throughput>
+    <throughput>3.3922181863477826</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>3995002.99102692</throughput>
+    <throughput>3880087.238285145</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>96140.50822122571</throughput>
+    <throughput>100338.98305084747</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>1.4682284504235176</throughput>
+    <throughput>1.3925633283507721</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>2308365.4037886346</throughput>
+    <throughput>2282205.7797708022</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>92891.8784255107</throughput>
+    <throughput>90442.17347956133</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>100</size>
-    <throughput>4065100.6477329344</throughput>
+    <throughput>3679199.203187251</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>1000</size>
-    <throughput>1556361.415752742</throughput>
+    <throughput>1497998.0069755854</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>10</threads>
     <size>10000</size>
-    <throughput>79700.19920318725</throughput>
+    <throughput>79844.96510468595</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>5.703023107569721</throughput>
+    <throughput>2.2698610861983057</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>4821987.543597409</throughput>
+    <throughput>4550953.639082752</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>0%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>112630.10967098705</throughput>
+    <throughput>113424.72582253242</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>1.772096812749004</throughput>
+    <throughput>1.6582690239043824</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>1185559.5416043845</throughput>
+    <throughput>2384017.447657029</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>10%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>106375.6851021425</throughput>
+    <throughput>105992.0279023418</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>100</size>
-    <throughput>4433870.084619214</throughput>
+    <throughput>3779872.509960159</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>1000</size>
-    <throughput>1715513.70204285</throughput>
+    <throughput>1609073.741903338</throughput>
   </result>
   <result>
     <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
     <write_ratio>100%</write_ratio>
     <threads>12</threads>
     <size>10000</size>
-    <throughput>98333.99701343953</throughput>
+    <throughput>88654.88047808765</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6147728.771228772</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>605162.4187906047</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>14662.837162837164</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>5856788.605697152</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>292955.02248875564</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>14086.456771614194</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>4502122.877122877</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>373429.070929071</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>12930.60409385921</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2785187.125748503</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>251932.60109835246</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8711.93210184723</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2119717.0658682636</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>135075.34930139722</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8368.44732900649</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1921863.9760837068</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>160500.99800399202</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8210.57884231537</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2359500.2493765587</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>215987.5249500998</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>8201.995012468828</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1807856.8578553617</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>116161.59600997507</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>7460.847880299252</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1301715.9940209268</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>132414.25722831508</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>7860.847880299252</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>2249369.5760598504</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>197992.02392821538</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>8043.369890329014</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1911182.452642074</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>108610.47381546136</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>8080.757726819542</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1566157.947184853</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>131941.2057797708</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>7916.749750747757</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>2170398.305084746</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>190130.6081754736</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8192.326856003985</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1733553.5625311409</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>105580.75772681956</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8374.688589935226</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1656857.0717131475</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>114273.54260089685</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>7831.589436970602</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>2025066.235059761</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>188094.62151394424</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>8346.115537848606</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1686018.4262948206</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>92709.16334661354</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>10152.466367713005</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1492729.8507462689</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>120218.62549800797</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>7668.824701195219</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1289920.0399800101</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>130442.05794205796</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10397.301349325338</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1306448.0519480521</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>135274.36281859071</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10328.835582208896</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1264466.7998002996</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>139172.740888667</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9631.368631368632</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>388613.57963055413</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>82436.06393606395</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>10115.826260609087</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>914075.8861707438</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>137174.23864203694</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>11310.534198701946</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>681730.6733167083</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>127928.64271457086</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>12583.12531203195</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>380011.98202695954</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>111346.97953070393</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>14563.373253493013</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1113114.328507239</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>183501.49700598803</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>14774.950099800399</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>787261.5844544095</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>179861.84538653368</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>16492.269326683294</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>388259.4810379241</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>131656.18762475048</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>18681.1377245509</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1237689.620758483</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>248967.58104738157</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>19330.174563591023</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>826913.216957606</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>220856.3591022444</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>21424.93765586035</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>410295.76059850375</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>164699.2518703242</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>24800.997506234417</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1360213.4663341646</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>298858.3541147132</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>23154.690618762474</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>900486.0557768925</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>281767.19840478565</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>26275.948103792416</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>527245.7627118644</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>166907.77666999004</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>26868.394815553344</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>976459.6211365904</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>338307.57726819545</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>29132.037867463874</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>917194.2231075697</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>328329.8455406079</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>31037.387836490532</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6076206.293706294</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>417772.22777222784</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10403.394907638542</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>5709615.077383923</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>281452.04795204796</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10397.602397602399</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>3793648.0279580625</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>293124.750499002</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9607.588617074387</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1.7284397403894156</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>1623324.5132301548</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>39503.99201596806</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>8845179.640718563</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>959524.4510978044</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>39438.84173739391</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2123595.2143569295</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>673072.3552894212</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>34565.651522715925</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2.044943962075848</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>2308891.7165668663</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>57960.07984031936</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1.1967848379052369</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>1379129.740518962</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>56904.69061876248</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2556783.2585949176</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>904059.8503740649</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>54934.16458852868</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1.625339850374065</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>3136864.33915212</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>75843.89027431422</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1.3966738154613467</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1768733.5329341318</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>72722.55489021956</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>3559325.361235675</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1233876.8079800499</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>77199.50124688279</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>3.421951471321696</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>3848050.348953141</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>99814.46384039901</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1.4266522931206383</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>1392059.8503740649</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>91558.32502492523</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>4087435.4758345787</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>1515634.28001993</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>91256.8578553616</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>4.37713423019432</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>5047016.940707523</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>121109.61634280019</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1.6298706028898854</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>2326405.0822122567</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>106892.82153539383</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>3445908.864541833</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>838225.211758844</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>88283.5077229696</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6329991.50849151</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>630157.9210394803</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>14195.304695304696</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6586747.2527472535</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>293540.9590409591</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>14156.843156843159</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>4368650.199600798</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>370484.27358961554</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>11977.52247752248</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2790111.3330004993</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>242887.6684972541</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8985.521717423864</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2116772.954091816</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>140270.59410883673</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8639.041437843234</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1574787.7428998505</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>150488.53439680958</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>7558.882235528942</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2324984.0319361277</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>216896.25935162095</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>8326.184538653368</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2031953.0938123753</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>117470.32418952619</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>7925.64870259481</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1431809.0727816552</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>135387.33798604188</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>7637.406483790524</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>2294122.1335992026</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>194561.59600997507</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>7685.443668993022</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1791253.2402791628</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>108512.46261216352</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>8500.000000000002</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1564345.943255351</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>123692.5759840558</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>7837.487537387838</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>2116263.2103688936</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>181925.75984055805</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8603.388141504733</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1645601.593625498</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>98830.59292476332</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8013.951170901843</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1537333.9960238568</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>114269.05829596412</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>7489.785749875436</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>2046379.9800796814</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>178899.90039840637</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>8493.027888446215</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1782662.8486055776</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>97966.6168410563</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>8127.426580388254</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1591059.671805072</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>116948.73071179692</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>7631.474103585658</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1291110.9445277362</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>129110.38961038963</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10287.356321839081</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1300621.8781218783</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>131363.3183408296</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10127.43628185907</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1268021.4785214786</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>135333.99900149775</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9410.089910089911</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>384019.97004493256</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>77806.8862275449</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>11315.02745881178</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>926704.9425861208</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>143092.36145781327</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>11353.969046430353</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>665910.2244389028</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>133772.95409181635</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>12825.26210683974</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>391719.56087824353</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>105385.22954091817</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>14241.138292561158</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1039305.8882235528</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>180762.4750499002</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>14963.572854291417</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>728939.1824526421</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>176765.46906187624</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>15727.54491017964</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>413528.17955112224</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>131964.58852867832</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>18674.31421446384</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1209052.867830424</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>240514.97005988023</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>19753.117206982544</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>817539.8803589233</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>218774.17746759724</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>20140.64837905237</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>441952.1197007481</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>157199.9002991027</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>24188.52867830424</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1297748.1296758105</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>287959.12263210374</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>24025.935162094764</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>899235.5577689243</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>287075.2366716492</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>24934.695912263214</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>399384.1554559043</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>183697.40777667</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>26923.728813559326</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1337419.7407776671</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>328012.9611166501</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>28231.689088191328</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>873293.6784469886</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>347563.5276532137</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>27814.150473343296</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6706446.829755367</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>419098.4507746127</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10320.179820179821</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>5731781.718281719</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>285106.3404892661</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9669.330669330671</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>3515209.0818363274</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>284840.23964053916</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>11363.954068896654</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1.4238334830339322</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>1682573.8522954092</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>42261.60758861707</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>9189765.351972042</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>980233.150274588</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>41397.90314528207</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2126000.998003992</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>666726.0479041917</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>36675.149700598806</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1.9009172069825437</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>2449153.6926147705</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>57913.7157107232</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1.1160874750499003</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>1259523.9520958085</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>62076.80798004988</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2220707.377866401</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>958102.2443890275</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>51740.64837905237</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>2.8714584745762713</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>3010416.458852868</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>82705.23690773068</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1.2158197506234415</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1041587.7367896312</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>73493.76558603492</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>3131852.091633466</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1191009.9651220727</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>75308.22942643391</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1.9837660019940183</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>3886159.940209267</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>97877.30673316709</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1.3657806676631788</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>2212936.6899302094</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>89076.27118644069</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>3470303.135888502</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>1489068.2610861983</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>76039.88035892324</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>3.7755221723966114</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>4721108.619830593</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>110770.68793619143</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1.7701633964143425</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>2538767.1984047857</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>103862.97957149975</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>3969226.9785963167</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>1718724.8255234298</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>90166.41753861484</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6456299.3503248375</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>612608.195902049</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>16074.962518740631</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>5933089.455272364</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>291577.21139430284</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>13960.539460539461</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>4460276.309226933</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>407345.6543456544</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>13003.496503496504</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2607396.9046430355</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>255923.6526946108</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8448.826759860209</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2143018.962075848</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>136891.1632551173</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8914.171656686627</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1488703.8883349951</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>156115.32700948577</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>7742.015968063873</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2150547.405189621</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>221047.90419161678</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>8591.816367265468</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1872624.251497006</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>117960.09975062344</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>8010.972568578554</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1474948.6540378865</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>142907.1856287425</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>7607.980049875312</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>2259393.8185443673</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>198915.7527417747</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>9628.428927680798</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1845793.120638086</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>117561.31605184448</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>8254.862842892768</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1581470.8520179372</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>135099.15296462382</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>8251.371571072319</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>2021025.4237288139</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>196735.79262213362</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8617.64705882353</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1807981.0568295117</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>109511.22194513716</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8307.078763708874</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1559066.6666666667</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>123744.89287493771</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>7803.687095166915</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>2141571.9980069753</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>198216.13545816732</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>7946.215139442231</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1632514.4422310756</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>97889.44223107569</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>7806.274900398406</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1479816.1033797218</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>112894.42231075697</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>7641.434262948207</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1451210.8945527237</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>140370.62937062938</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10375.812093953024</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1258619.3806193809</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>137453.27336331835</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10607.392607392609</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1401066.7996011965</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>140445.6630109671</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9428.57142857143</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>386010.989010989</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>88051.42286570145</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>11192.211682476285</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>924182.2266600099</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>142430.06993006993</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>11174.238642036944</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>654880.7980049875</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>126491.51696606787</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>11940.589116325511</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>396680.6387225549</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>107627.05941088367</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>14378.243512974052</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1090697.1057884232</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>191489.76535197202</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>17914.62805791313</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>747760.5985037407</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>169999.500998004</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>17221.4463840399</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>451662.3441396509</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>135071.35728542914</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>19388.72255489022</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1152071.8204488778</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>238911.7206982544</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>20976.047904191615</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>810237.6681614349</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>224363.40977068795</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>20713.359920239283</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>368270.05480817135</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>167953.11720698254</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>23546.633416458855</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1291417.4563591024</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>307845.88528678304</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>23148.055832502494</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>890936.1914257229</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>221874.4394618834</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>24308.075772681957</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>428936.65835411474</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>162080.25922233303</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>26997.00897308076</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1217244.643746886</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>332991.52542372886</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>28640.399002493767</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>948678.7848605578</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>320813.0608175474</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>28375.37387836491</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6249580.4195804205</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>404964.035964036</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10061.938061938063</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>5889330.66933067</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>259352.6473526474</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10031.468531468532</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>3873394.710578842</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>312210.07984031935</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9881.178232651024</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1.8135855289421156</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>1693797.304043934</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>42186.2206689965</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>9146059.910134798</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>1004843.235147279</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>40843.235147279076</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2087768.578553616</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>715887.7245508982</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>36016.47528706939</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2.7086347630922694</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>2425506.4870259482</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>57443.612774451096</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1.1365337986041876</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>1462950.5741387918</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>61160.67864271457</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2356591.429995017</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>950020.4590818363</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>54532.934131736525</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1.7385092269326683</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>3015742.643391521</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>75776.55860349127</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1.4572998004987532</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1308298.753117207</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>77836.40897755612</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>3329038.36571998</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1137396.5087281796</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>67231.80458624128</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>4.5181633599202394</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>3794437.905236908</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>98620.4488778055</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1.6114924227318048</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>1367285.643070788</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>95068.79361914258</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>4131420.029895366</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>1433219.730941704</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>83838.98305084747</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>4.591682511210762</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>4922376.68161435</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>113544.86540378864</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1.5769759960159363</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>2234731.306081755</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>111270.1894317049</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>3676012.4440019913</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>1570227.5896414344</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>94880.41853512704</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6356443.056943058</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>619723.2767232768</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>13074.425574425575</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>5925570.214892554</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>297591.40859140863</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>15275.724275724277</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>4322677.483774338</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>365531.70244633046</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>12967.548676984523</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2712148.7768347478</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>250607.08936595105</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8365.951073389915</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2122811.2830753867</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>137514.72790813778</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8273.09036445332</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1516141.6458852869</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>155895.65651522714</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>8197.105788423154</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2214041.4171656687</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>216306.7331670823</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>7943.612774451098</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1812014.9700598803</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>116698.25436408978</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>8043.890274314215</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1357252.9880478089</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>130979.55112219452</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>7962.574850299401</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>2202030.9072781657</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>196140.14962593518</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>8181.0473815461355</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1793233.416458853</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>105235.29411764706</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>7660.687593423019</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1547730.2140368344</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>128422.23330009972</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>7521.674140508221</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>2085821.6243148977</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>187519.68111609365</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8294.117647058825</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1712653.2137518683</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>99555.333998006</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>8497.757847533632</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1544485.5721393037</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>122772.7952167414</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>7692.231075697211</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>2027895.4703832753</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>182104.08366533864</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>8094.574415131907</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1641220.5077152813</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>91825.19920318725</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>8415.338645418327</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1476446.9885515182</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>112158.20895522389</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.CoarseGrainedListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>7769.422310756972</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1360001.499250375</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>150449.27536231885</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10667.666166916542</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1291418.2908545728</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>136353.32333833084</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10250.749250749252</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>1272980.0498753118</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>138211.28871128874</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10018.48151848152</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>405991.0134797803</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>81232.26773226775</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>10205.691462805791</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>940451.8222666001</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>143516.72491263103</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>11287.568647029455</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>602014.9700598803</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>130236.52694610778</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>12504.742885671492</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>367383.4248627059</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>111566.86626746507</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>14982.53493013972</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1070146.7798302546</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>187210.1847229156</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>15377.245508982036</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>701485.7997010463</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>165542.91417165668</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>15702.594810379242</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>410480.29925187037</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>130507.23192019951</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>19579.052369077308</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1215275.8104738155</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>238572.56857855362</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>19152.11970074813</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>791443.7250996016</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>221868.46038863974</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>20648.554336989037</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>377837.9860418744</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>153388.02992518703</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>22711.365902293124</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1236812.562313061</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>278395.01246882795</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>23365.902293120642</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>953037.3692077728</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>291599.7008973081</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>23498.00598205384</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>413851.02142501244</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>181237.28813559323</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>26997.010463378174</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1320782.760338814</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>331807.4812967581</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>30063.808574277173</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>878113.987058238</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>295960.139511709</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.HandOverHandListBasedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>29383.848454636096</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>6776046.453546454</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>434356.6433566434</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>10355.144855144856</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>5362326.673326674</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>284826.67332667334</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9859.640359640362</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>100</size>
+    <throughput>3928296.4071856285</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>1000</size>
+    <throughput>296242.1367948078</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>1</threads>
+    <size>10000</size>
+    <throughput>9692.461308037942</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>1.844387974051896</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>1574940.618762475</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>41982.53493013972</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>6981626.24750499</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>1006054.3912175648</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>38808.28756864703</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>100</size>
+    <throughput>2105725.3240279164</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>1000</size>
+    <throughput>695490.7638542186</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>4</threads>
+    <size>10000</size>
+    <throughput>37176.734897653514</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1.825242864271457</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>2444358.78243513</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>60447.60479041916</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>1.1405547630922694</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>1406987.0259481038</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>58381.2375249501</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>100</size>
+    <throughput>2439270.687936192</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>1000</size>
+    <throughput>942137.7245508982</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>6</threads>
+    <size>10000</size>
+    <throughput>51292.41516966068</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>2.7855713216957606</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>2950306.7331670825</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>74065.33665835412</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>1.3018870324189527</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1485348.6284289279</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>74080.29925187032</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>100</size>
+    <throughput>3067108.121574489</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>1000</size>
+    <throughput>1209635.0947158525</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>8</threads>
+    <size>10000</size>
+    <throughput>65483.790523690775</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>2.5294211365902297</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>3989997.008973081</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>98351.27055306427</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>1.406713452914798</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>1701786.1415752743</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>89561.81455633101</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>100</size>
+    <throughput>3986294.673967148</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>1000</size>
+    <throughput>1497992.0279023417</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>10</threads>
+    <size>10000</size>
+    <throughput>75330.17456359102</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>3.8655361055776894</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>4719291.479820628</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>0%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>117166.99900299104</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>1.6545624688899951</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>1326835.077229696</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>10%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>115810.56829511467</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>100</size>
+    <throughput>3915418.6162269786</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>1000</size>
+    <throughput>1774294.8207171315</throughput>
+  </result>
+  <result>
+    <algorithm>linkedlists.lockbased.LazyLinkedListSortedSet</algorithm>
+    <write_ratio>100%</write_ratio>
+    <threads>12</threads>
+    <size>10000</size>
+    <throughput>90000.00000000001</throughput>
   </result>
 </benchmark_results>
